@@ -15,3 +15,6 @@ save/load feature
 
 AI player
 
+Fix new game feature when switching decks (why need to do new game twice for scroll view to work properly?
+This may have to do with the center view function....)
+
